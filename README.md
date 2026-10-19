@@ -79,10 +79,6 @@ I build native Android apps with **Kotlin** and web apps with **TypeScript** —
   <img src="https://streak-stats.demolab.com?user=haiderbyte&theme=tokyonight&hide_border=true&ring=c8a165&fire=c8a165&currStreakLabel=c8a165" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=haiderbyte&bg_color=1a1b27&color=c8a165&line=7aa2f7&point=f5e6c8&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
 ---
 
 <div align="center">
